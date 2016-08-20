@@ -1,0 +1,6 @@
+xcffib==0.4.2
+cairocffi==0.7.2
+cffi==1.6.0
+pycparser==2.14           # via cffi
+six==1.10.0
+-e git://github.com/qtile/qtile.git@v0.10.6#egg=qtile

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Qtile
+Comment=Qtile Session
+Exec=~/.pyenv/versions/qtile/bin/python ~/.pyenv/versions/qtile/bin/qtile
+Type=Application
